@@ -6,7 +6,9 @@
   "author": "BigCommerce",
   "license": "MIT",
   "dependencies": {
+    "@babel/preset-react": "^7.12.13",
     "@bigcommerce/stencil-utils": "^6.8.1",
+    "babel-plugin-transform-object-assign": "^6.22.0",
     "core-js": "^3.9.0",
     "creditcards": "^3.0.1",
     "easyzoom": "^2.5.3",
@@ -21,6 +23,8 @@
     "nanobar": "^0.4.2",
     "nod-validate": "^2.0.12",
     "object-fit-images": "^3.2.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "regenerator-runtime": "^0.13.7",
     "slick-carousel": "^1.8.1",
     "svg-injector": "^1.1.3",
